@@ -1,6 +1,6 @@
 this is file 1 change
 bbbb
-hogehoge
+hoge
 end bbb
-hogehoge
+hoge
 
