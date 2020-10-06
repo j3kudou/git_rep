@@ -1,6 +1,6 @@
 this is file 1 change
 bbbb
-hogeppage
+hoge
 end bbb
-hogepage
+hoge
 
