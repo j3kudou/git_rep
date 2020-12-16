@@ -1,3 +1,3 @@
-this is file 2/hoge
-end/hoge
-/hoge
+this is file 2
+Kondo.
+end
