@@ -1,3 +1,4 @@
-this is file 3/hoge
-/hoge
-end/hoge
+this is file 3
+TANIGUCHI hoge
+end/hogehoge
+
